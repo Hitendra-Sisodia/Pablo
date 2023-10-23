@@ -1,0 +1,28 @@
+int - number
+char - character
+for - jabtk
+continue - lagatar
+while - tabtk
++ - plus
+- - minus
+* - into
+/ - divide
+= - assigns
+<= - lessthanequalto
+>= - greaterthanequalto
+!= - notassign
+== - equals
+void - null
+float - pointwale
+%- percent 
+&&-andand
+++-plusplus
+-- - minusminus
+-= - minusassign
++= - plusassign
+/= - divideassign
+switch - badlo
+if - agar
+else - nahito
+break - ruko
+return - wapis
