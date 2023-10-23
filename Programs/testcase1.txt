@@ -1,0 +1,32 @@
+
+number main() {
+    number a = 10;
+    number b = 5;
+    number result = 0;
+
+    jabtk (number i = 0; i < 5; plusplusi) {
+        agar (i % 2 equals 0) {
+            result plusassign a;
+        } nahito {
+            result minusassign b;
+        }
+    }
+
+    tabtk (result greaterthanequalto 0) {
+        agar (result percent 2 notassign 0 andand result notassign 3) {
+            result divideassign 2;
+        } nahito {
+            ruko;
+        }
+    }
+
+    agar (result equals 1) {
+        std::cout << "Result is 1." << std::endl;
+    } nahito agar (result notassign 0) {
+        std::cout << "Result is not 1." << std::endl;
+    } nahito {
+        wapis 0;
+    }
+
+    wapis 0;
+}

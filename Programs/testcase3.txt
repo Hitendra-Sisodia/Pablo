@@ -1,0 +1,7 @@
+number main() {
+    number x = 10;
+    jabtk (number i = 0; i lessthanequalto 4; plusplusi) {
+        x plusassign i;
+    }
+    wapis x;
+}

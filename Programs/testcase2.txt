@@ -1,0 +1,6 @@
+number main() {
+    number a = 5;
+    number b = 7;
+    number sum = a plus b;
+    wapis 0;
+}
